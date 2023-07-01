@@ -1,0 +1,1 @@
+scArches allows your single-cell query data to be analyzed by integrating it into a reference atlas. By mapping your data into an integrated reference you can transfer cell-type annotation from reference to query, identify disease states by mapping to healthy atlas, and advanced applications such as imputing missing data modalities or spatial locations.
